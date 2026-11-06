@@ -4,7 +4,7 @@ This project walks through the full machine learning pipeline: data acquisition,
 
 The full write-up is in the final report: [project_report.pdf](project_report.pdf)
 
-Notebook on Google Colab: [Open in Colab](COLAB_LINK_HERE)
+Notebook on Google Colab: [Open in Colab](https://colab.research.google.com/drive/1QO3u5DIa-m1bJEQIAy9iL9K7HjiItT1A)
 
 ## What the project does
 
@@ -42,7 +42,7 @@ ML-Capstone-Project/
 ### Option 1: Google Colab
 
 1. Open the Colab link at the top of this file.
-2. In the cell called `Get the data`, replace `YOUR_GITHUB_USERNAME` with the GitHub username that owns this repository.
+2. In the cell called `Get the data`, replace `3MINA3` with the GitHub username that owns this repository.
 3. Choose **Runtime > Run all**.
 
 ### Option 2: On your own computer
@@ -50,7 +50,7 @@ ML-Capstone-Project/
 1. Clone the repository and go into it:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/ML-Capstone-Project.git
+git clone https://github.com/3MINA3/ML-Capstone-Project.git
 cd ML-Capstone-Project
 ```
 
