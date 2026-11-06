@@ -1,0 +1,39 @@
+===== HOUSING DATASET =====
+Shape: (20640, 10)
+Regression target: median_house_value
+Removed 965 districts with a capped price (500001); 19675 remain
+
+===== Linear Regression =====
+MSE:  3914036126.8087
+RMSE: 62562.2580
+R2:   0.6075
+
+
+===== EMPATHETIC DIALOGUES DATASET =====
+Shape: (24850, 3)
+Classification target: label (1 = positive, 0 = negative)
+label
+0    12284
+1     9076
+
+===== Logistic Regression =====
+Accuracy:  0.8488
+Confusion Matrix:
+[[2191  266]
+ [ 380 1435]]
+TP=1435, FP=266, TN=2191, FN=380
+Precision: 0.8436
+Recall:    0.7906
+
+===== K-Means Clustering =====
+Optimal K (Elbow): 5
+Silhouette Score: 0.2816
+
+Cluster summary (average per cluster):
+         median_income  median_house_value  housing_median_age  population  districts
+cluster                                                                              
+0                  3.7            204309.2                29.6      1298.8       9861
+1                  4.1            207462.1                15.9      4126.4       1473
+2                  3.9            236435.1                38.0      1130.9       2018
+3                  2.7            380440.0                42.4       668.0          5
+4                  3.4            156329.5                26.4      1135.9       6318
