@@ -1,0 +1,6 @@
+column,max_before,limit,rows_affected,rule,share_of_rows_%
+price,10000.0,799.0,485,listings with price 0 or above the limit are removed from training,0.99
+minimum_nights,1250.0,45.0,469,values above the limit are cut to the limit,0.96
+number_of_reviews,629.0,214.0,480,values above the limit are cut to the limit,0.98
+reviews_per_month,58.5,7.2,389,values above the limit are cut to the limit,0.8
+calculated_host_listings_count,327.0,232.0,327,values above the limit are cut to the limit,0.67

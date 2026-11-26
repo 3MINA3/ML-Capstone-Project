@@ -1,0 +1,6 @@
+step,RMSE_change,better_in,decision
+fill_reviews,2.439746301649535,0 of 5 splits,dropped
+drop_zero_price,-0.00014786606302550354,3 of 5 splits,dropped
+drop_extreme_price,-0.4451374761774474,4 of 5 splits,kept
+clip_features,-0.652884792470411,5 of 5 splits,kept
+log_price,1.5937196398216655,0 of 5 splits,dropped

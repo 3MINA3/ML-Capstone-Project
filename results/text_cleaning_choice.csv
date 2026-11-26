@@ -1,0 +1,5 @@
+step,F1_change,better_in,decision
+lowercase,0.00249065482850559,3 of 5 splits,dropped
+clean_symbols,0.014887848750073518,5 of 5 splits,kept
+stop_words,-0.007936387118828759,0 of 5 splits,dropped
+stem,-0.0001138294514832161,2 of 5 splits,dropped
