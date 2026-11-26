@@ -1,0 +1,4 @@
+Version,Silhouette,Davies-Bouldin,Calinski-Harabasz
+"C0 Raw features (not scaled, not clipped)",0.6188553875766089,0.7030223973280749,80226.5356691591
+C1 + scaled (StandardScaler),0.33664211590075394,1.0520326040036538,11038.968261571723
+C2 + extreme values clipped at the 99th percentile,0.31650975294709377,1.1752976840680502,11907.528540111309
